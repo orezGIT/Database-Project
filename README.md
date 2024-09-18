@@ -1,3 +1,4 @@
 # DataBase Project
-A Hospital database designed to register patients and book appointments to see a doctor
+A hospital database designed to register patients, manage doctor appointments, and create a food service database with the ability to write and execute queries for data retrieval and analysis.
+A
 
